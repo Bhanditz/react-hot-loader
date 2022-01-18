@@ -16,9 +16,9 @@
     "webpack-dev-server": "^2.9.7"
   },
   "dependencies": {
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0",
-    "react-hot-loader": "next",
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0",
+    "react-hot-loader": "4.0.0",
     "recompose": "^0.26.0"
   }
 }
