@@ -22,7 +22,7 @@
     "express": "^4.16.2",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
-    "react-hot-loader": "next",
+    "react-hot-loader": "4.0.0",
     "react-portal": "^4.1.2"
   }
 }
